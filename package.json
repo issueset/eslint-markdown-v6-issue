@@ -11,9 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@eslint/markdown": "^6.0.0",
-    "eslint-plugin-markdown": "^5.1.0"
-  },
-  "devDependencies": {
+    "eslint-plugin-markdown": "^5.1.0",
     "@eslint/js": "^9.9.0",
     "@types/eslint__js": "^8.42.3",
     "eslint": "^9.9.0",
